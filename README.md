@@ -11,6 +11,6 @@ function redirect($url, $statusCode = 303)
    die();
 }
 
-redirect('https://discord.gg/CVKpAeb');
+redirect('url here');
 ?>
 ```
